@@ -1,5 +1,12 @@
 # DSHP - Damn Simple HoneyPot
 
+## James' notes
+```
+The following project has been ported from python 2.7 to python 3 for the purpose of reviewing its functionality as research for a textbook on deception technology
+Below are the original authors notes which may be updated to reflect any new install processes as required
+```
+
+## Original README
 This is a honeypot designed to be as simple as possible while allowing enough modularity to automate event handling (such as email alerts, SMS or even kicking a user out).
 I wrote this after not being able to find a truly zero interaction HP to stick inside a VPC that will alert only when attempted to be accessed.
 
